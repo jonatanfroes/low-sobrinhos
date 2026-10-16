@@ -1,0 +1,2960 @@
+[
+  {
+    "id": "LEJL-001",
+    "title": "Caderno das quatro operações",
+    "front": "Nicho aberto · educação; reforço escolar.",
+    "audience": "Pais e professores que precisam de exercícios progressivos de cálculo.",
+    "deliverable": "PDF original por nível, problemas do cotidiano, gabarito e roteiro de aplicação.",
+    "evidence": "A legenda descreve atividades das quatro operações e PDF para imprimir anunciado a R$10.",
+    "production": "Médio; revisão pedagógica.",
+    "bumps": "(1) Jogos de tabuada; (2) Ficha de acompanhamento individual.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Caderno de Reforço de Matemática – As 4 Operações",
+        "url": "https://www.instagram.com/p/DdFvdZVMkqX/",
+        "note": "Salvos IG ao vivo; listagem Swipe ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Traduzir e alinhar com a progressão escolar do país."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês e referências ao currículo local."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Escolher idioma e adaptar à progressão escolar local."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-002",
+    "title": "Ditado ilustrado e consciência fonológica",
+    "front": "Nicho aberto · alfabetização; infantil.",
+    "audience": "Alfabetizadores e famílias que precisam relacionar imagem, som e escrita.",
+    "deliverable": "Fichas autorais de ditado visual em versões colorida e econômica, com orientação de uso.",
+    "evidence": "O texto lido nos Salvos descreve ditados, famílias silábicas e duas versões de impressão.",
+    "production": "Médio; revisão pedagógica.",
+    "bumps": "(1) Cartões de famílias silábicas; (2) Registro de evolução da escrita.",
+    "origin": "SW + FB",
+    "refs": [
+      {
+        "title": "Professora, cansada de ditado que não prende a atenção das crianças?",
+        "url": "https://www.facebook.com/reel/1476521977852575/",
+        "note": "Salvos FB ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Espanhol e revisão de alfabetização local."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês e fonética do inglês exigem conteúdo próprio."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Idioma escolhido muda sons, exemplos e atividade."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-003",
+    "title": "Kit interativo do Sistema Solar",
+    "front": "Nicho aberto · ciências; infantil.",
+    "audience": "Professores dos anos iniciais que querem uma aula visual pronta.",
+    "deliverable": "Painel, cartões dos planetas, atividade de montagem e quiz, com material original.",
+    "evidence": "A referência oferece painel, atividade interativa e perguntas para ensinar o Sistema Solar.",
+    "production": "Baixo a médio; conferir fatos e impressão.",
+    "bumps": "(1) Mini livro de curiosidades; (2) Cartões de revisão e gabarito.",
+    "origin": "SW + FB",
+    "refs": [
+      {
+        "title": "VIAJE PELO SISTEMA SOLAR!",
+        "url": "https://www.facebook.com/61568097908301/videos/1493789665186011/",
+        "note": "Salvos FB ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Astronomia é ampla; traduzir e usar unidades adequadas."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Conteúdo científico amplo; adaptar unidades e vocabulário."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir, adequar unidades e conferir currículo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-004",
+    "title": "Pixel art para atenção e coordenação",
+    "front": "Nicho aberto · infantil; atividades imprimíveis.",
+    "audience": "Pais e professores que procuram tarefas visuais sem tela.",
+    "deliverable": "Grades originais em três dificuldades, modelos, desafios de simetria e instruções.",
+    "evidence": "Os títulos do Swipe e do Facebook anunciam mais de 100 atividades de pixel art; não examinei os arquivos.",
+    "production": "Baixo; testar dificuldade e impressão.",
+    "bumps": "(1) Desafios de simetria; (2) Calendário de atividades curtas.",
+    "origin": "SW + FB",
+    "refs": [
+      {
+        "title": "100 Atividades de Pixel Art Prontas para Imprimir e Colorir!",
+        "url": "https://www.facebook.com/reel/1368357892162900/",
+        "note": "texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Pixel art nos Salvos atuais",
+        "url": "https://www.facebook.com/reel/913823741411711/",
+        "note": "Salvos FB ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Atividade visual; localizar instruções."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Atividade visual; localizar instruções."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Atividade visual; traduzir instruções."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "production"
+  },
+  {
+    "id": "LEJL-005",
+    "title": "Figurinhas personalizáveis para professores",
+    "front": "Nicho aberto · professores; papelaria; personalização.",
+    "audience": "Professores que querem incentivar alunos e personalizar correções.",
+    "deliverable": "Templates originais com espaços para a própria foto, elogios e orientações; tutorial para imprimir e enviar.",
+    "evidence": "A legenda anuncia mais de 120 figurinhas personalizadas, digitais ou imprimíveis, a R$12.",
+    "production": "Baixo a médio; preferir edição pelo comprador para reduzir atendimento.",
+    "bumps": "(1) Cartões de feedback para famílias; (2) Selos para tarefas e cadernos.",
+    "origin": "IG",
+    "refs": [
+      {
+        "title": "Figurinhas personalizadas para professores",
+        "url": "https://www.instagram.com/p/Da0OQtxgaAS/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Traduzir frases e adaptar formatos de impressão."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês, padrões de impressão e linguagem escolar."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Idioma e formatos de papel variam."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-006",
+    "title": "Kit de homenagem escolar",
+    "front": "Nicho aberto · papelaria; escola; datas especiais.",
+    "audience": "Coordenações e famílias que precisam preparar uma homenagem sem desenhar tudo.",
+    "deliverable": "Painel, cartões, certificados e lembranças com arte própria, em pacote pequeno e coerente.",
+    "evidence": "A oferta descreve painel, moldura, mensagens, lembranças e PDF A4 a R$9,90.",
+    "production": "Baixo; sazonalidade forte e data próxima.",
+    "bumps": "(1) Versões editáveis das mensagens; (2) Guia de montagem e custo.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "KIT PROFESSOR QUE TRANSFORMA por apenas R$ 9,90! 🔥",
+        "url": "https://www.instagram.com/p/DdSuznes3nh/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Datas e linguagem escolar variam por país."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Criar ocasião e linguagem próprias do calendário escolar."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Calendário e tradições escolares variam."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-007",
+    "title": "Caderno cristão para colorir",
+    "front": "Nicho aberto · cristão; colorir; lazer.",
+    "audience": "Adultos e famílias que buscam uma atividade criativa com mensagens de fé.",
+    "deliverable": "Coleção enxuta de ilustrações originais, temas e referências bíblicas, com versão de impressão econômica.",
+    "evidence": "Nos Salvos, a oferta anuncia 35 livros cristãos para colorir e mais de mil páginas a R$10; quantidades não foram auditadas.",
+    "production": "Baixo a médio; arte original e revisão do conteúdo.",
+    "bumps": "(1) Marcadores de página; (2) Diário de reflexão.",
+    "origin": "IG",
+    "refs": [
+      {
+        "title": "Coleção cristã para colorir",
+        "url": "https://www.instagram.com/p/DWmVLerDMjU/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir e escolher referências bíblicas adequadas ao público."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Definir tradição, idioma e público de fé."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Público e tradição cristã variam bastante."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-008",
+    "title": "Papelaria para encontros da igreja",
+    "front": "Nicho aberto · cristão; eventos; imprimíveis.",
+    "audience": "Líderes de células e pequenos ministérios que precisam de lembranças econômicas.",
+    "deliverable": "Arquivos originais de lembranças, etiquetas e cartões organizados por ocasião.",
+    "evidence": "As legendas descrevem mais de 50 lembranças para eventos e etiquetas cristãs prontas para imprimir.",
+    "production": "Baixo; consolidar etiquetas e lembranças em uma oferta.",
+    "bumps": "(1) Convites e avisos editáveis; (2) Planilha de quantidade e custo por evento.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Kit de Lembrancinhas Cristãs 💝",
+        "url": "https://www.instagram.com/p/DZ2dylKDOro/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Leve uma mensagem de Deus para mais pessoas, de forma simples e discreta. 🙏✨",
+        "url": "https://www.instagram.com/p/DbwogQ3Mgvm/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir e adaptar a tradições e eventos locais."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Localizar referências, formato de evento e tradição."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Localizar idioma, tradição e calendário."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-009",
+    "title": "Moldes de bolsas e nécessaires para iniciantes",
+    "front": "Nicho aberto · costura; artesanato.",
+    "audience": "Costureiras iniciantes que precisam escolher projetos simples e executáveis.",
+    "deliverable": "Seleção de moldes originais em escala real, instruções fotografadas e guia de materiais.",
+    "evidence": "Os posts descrevem um acervo de bolsas e nécessaires; o mais recente inclui aulas e ferramentas de custo.",
+    "production": "Médio a alto; validar moldes com quem costura.",
+    "bumps": "(1) Calculadora de custo e preço; (2) Roteiro de fotografias e divulgação.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "TUDO EM UM WEB APP COMPLETO — +200 MOLDES DE BOLSAS & NECESSAIRES!",
+        "url": "https://www.instagram.com/p/Dcp2dJXAnNf/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Bolsas e nécessaires nos Salvos atuais",
+        "url": "https://www.instagram.com/p/DeOGhgdAeOS/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir instruções; manter moldes em escala e medidas claras."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Traduzir; acrescentar polegadas e tamanhos usuais."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir instruções e confirmar A4/medidas."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-010",
+    "title": "Embalagens imprimíveis para kits de cosméticos",
+    "front": "Nicho aberto · papelaria; revenda; presentes.",
+    "audience": "Revendedoras que querem apresentar sabonetes, hidratantes e body splash como presentes.",
+    "deliverable": "Moldes originais de caixas, tamanhos compatíveis, capas e instruções de montagem.",
+    "evidence": "O texto especifica PDF digital, três formatos de embalagem e uso para presentes ou revenda.",
+    "production": "Baixo a médio; imprimir e montar protótipos.",
+    "bumps": "(1) Tags de presente editáveis; (2) Tabela de montagem e materiais.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Kit Embalagens — +40 designs de caixa para imprimir, montar e transformar cosmético…",
+        "url": "https://www.instagram.com/p/DcdApL6MEqi/",
+        "note": "Salvos IG ao vivo; listagem Swipe ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir rótulos e revisar tamanhos de embalagem."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Adaptar dimensões, papel e informação de embalagem."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Escolher país e rever dimensões e regras de rotulagem aplicáveis."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-011",
+    "title": "Convites digitais com confirmação de presença",
+    "front": "Nicho aberto · festas; templates; papelaria.",
+    "audience": "Pais e pequenos organizadores que querem convites com informações centralizadas.",
+    "deliverable": "Templates com temas originais e links de localização, confirmação e sugestões de presente.",
+    "evidence": "A referência descreve convites personalizados com três botões; isso é uma oferta de serviço, a proposta é adaptar para templates.",
+    "production": "Baixo a médio; separar template reutilizável de personalização sob encomenda.",
+    "bumps": "(1) Checklist de organização da festa; (2) Cards de lembrete e agradecimento.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Convites Criativos · ✨ Dê um toque especial ao convite de aniversário dos seus filhos! ✨ 🎉 Con",
+        "url": "https://www.facebook.com/61571496582394/videos/727797836608463/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Idioma, formatos de data, RSVP e mensageiros locais."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Inglês, data/endereço e ferramentas locais de confirmação."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Idioma, data, endereço e canal de RSVP locais."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-012",
+    "title": "Planner de operação para loja de produtos digitais",
+    "front": "Nicho aberto · organização; loja digital; pequenos negócios.",
+    "audience": "Criadores que se perdem entre produtos, anúncios, entregas e atualizações.",
+    "deliverable": "Planilhas e planner originais de catálogo, produção, publicação, custos e rotina semanal.",
+    "evidence": "O acervo registra “Digital Etsy Shop Planner” e um bundle de planners; os registros não detalham os arquivos.",
+    "production": "Baixo; confirmar a referência e restringir o público.",
+    "bumps": "(1) Checklist de publicação de produto; (2) Calculadora de custo e margem.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Jessa · Digital Etsy Shop Planner / Jessa Bellman Coaching",
+        "url": "https://www.facebook.com/thatjessab/posts/pfbid0yzz8vhB3rWFWk6tMVmhQ81qCAS9un9Cmrf8h9ACu8ZECw6VN2kEECQPXnzSY56Etl",
+        "note": "texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Jessa · $9 MEGA BUNDLE 🔥 Create & sell unlimited planners",
+        "url": "https://www.facebook.com/thatjessab/videos/8075360525852177/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Plataforma, idioma, moeda e taxas do marketplace escolhido."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Inglês e fluxos da plataforma de venda escolhida."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Localizar idioma, impostos e marketplace por país."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-013",
+    "title": "Crochê: primeiras peças úteis para vender",
+    "front": "Nicho aberto · crochê; artesanato.",
+    "audience": "Iniciantes que querem concluir peças simples e organizar sua produção.",
+    "deliverable": "Instruções de pontos e diagramas autorais de poucas peças, fotos do processo e fichas técnicas.",
+    "evidence": "O registro contém o título Método Crochê Lucrativo; não há descrição suficiente do curso.",
+    "production": "Alto sem artesã parceira; não priorizar antes de validar técnica.",
+    "bumps": "(1) Planilha de materiais e preço; (2) Guia de fotografia das peças.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Susana Ateliê · Método Crochê Lucrativo",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Mj41m4ZkyWqGYtGPX6tcRxgfcysfZcbLcy5swpyG9rUsEVt2b2XcKRBK76UyjiHTl&id=61560626968735",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir termos regionais de pontos e materiais."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Usar terminologia de crochet e unidades locais."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir termos, diagramas e unidades."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-014",
+    "title": "Projetos de casinhas para pássaros",
+    "front": "Nicho aberto · marcenaria; hobby; moldes.",
+    "audience": "Hobbistas que querem um pequeno projeto com medidas e montagem claras.",
+    "deliverable": "PDF de modelos próprios, cortes, medidas, lista de materiais e instruções.",
+    "evidence": "O título anuncia mais de 100 moldes de casinha com ícone de pássaro; aplicação, medidas e conteúdo ainda precisam de confirmação.",
+    "production": "Médio a alto; revisão e protótipo de marcenaria.",
+    "bumps": "(1) Calculadora de aproveitamento de madeira; (2) Fichas de pintura e acabamento.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Roni Faz Tudo · +100 Moldes de Casinha🐦",
+        "url": "https://www.facebook.com/reel/1033185905845707/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Considerar espécies de aves e madeira locais."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Adaptar espécies, materiais e medidas."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Adaptar espécies de aves, materiais e medidas."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-015",
+    "title": "Guia visual de enxertos de frutíferas",
+    "front": "Nicho aberto · jardinagem; frutíferas.",
+    "audience": "Quem cultiva em casa e precisa entender visualmente cortes e encaixes.",
+    "deliverable": "Guia autoral de técnicas básicas, sequência de fotos, cuidados e registro de tentativas.",
+    "evidence": "A legenda enumera técnicas, referências visuais e frutíferas, com oferta digital a R$10.",
+    "production": "Alto sem agrônomo ou produtor experiente.",
+    "bumps": "(1) Calendário de cuidados por espécie; (2) Diário de enxertia.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Você sabia que tentar enxertar sem referência pode te custar um ano inteiro de esper…",
+        "url": "https://www.instagram.com/p/DdmShGJA8nc/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Clima, porta-enxertos e espécies locais exigem revisão técnica."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Adaptar zonas climáticas, espécies e calendário."
+      },
+      "EU": {
+        "fit": "Potencial médio por país",
+        "note": "Clima, espécies e épocas de cultivo variam."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-016",
+    "title": "Italiano visual para situações de viagem",
+    "front": "Nicho aberto · idiomas; viagem.",
+    "audience": "Brasileiros iniciantes que precisam compreender frases práticas antes de viajar.",
+    "deliverable": "Cartões visuais, áudio revisado de pronúncia e diálogos de situações de viagem.",
+    "evidence": "O texto do Swipe descreve vocabulário, frases, pronúncia e gramática essencial no Italiano Visual.",
+    "production": "Médio; precisa de revisão de pessoa fluente.",
+    "bumps": "(1) Mini diálogos de emergência e transporte; (2) Baralho de revisão.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Aprender italiano não precisa ser chato, confuso ou cheio de decoreba.",
+        "url": "https://www.instagram.com/p/DZaPCocDFTo/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Italiano de viagem pode atender vários países; espanhol ou português."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Inglês para viajantes com destino à Itália."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Foco em viajantes não italianos com destino à Itália."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "production"
+  },
+  {
+    "id": "LEJL-017",
+    "title": "Devocional e conversas para casais",
+    "front": "Nicho aberto · cristão; casal; organização pessoal.",
+    "audience": "Casais cristãos que querem reservar um momento de reflexão conjunta.",
+    "deliverable": "Leituras curtas, perguntas de conversa e diário em PDF, sem promessa de restaurar o casamento.",
+    "evidence": "O mesmo título de devocional de 21 dias aparece no Swipe e nos Salvos do Facebook; não li o entregável.",
+    "production": "Médio; revisão editorial e teológica.",
+    "bumps": "(1) Cards de perguntas para conversa; (2) Planner de momentos a dois.",
+    "origin": "SW + FB",
+    "refs": [
+      {
+        "title": "Devocional de 21 dias para Restauração do seu Casamento!",
+        "url": "https://www.facebook.com/reel/1758006491901832/",
+        "note": "Salvos FB ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Idioma e abordagem de fé/casal precisam de localização."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Escolher comunidade, tradição e abordagem apropriadas."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Aderência varia por idioma, tradição e público."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "production"
+  },
+  {
+    "id": "LEJL-018",
+    "title": "Musicalização infantil com cartões e áudio",
+    "front": "Música · educação musical; infantil.",
+    "audience": "Pais e professores que querem ensinar fundamentos musicais de forma concreta.",
+    "deliverable": "Cartões de som, altura e notas, brincadeiras guiadas, áudios próprios e plano de atividades.",
+    "evidence": "O conteúdo armazenado explica fundamentos, notas e pauta; a aplicação infantil é uma adaptação proposta.",
+    "production": "Médio; bom encaixe com a experiência musical da equipe.",
+    "bumps": "(1) Jogos de identificação auditiva; (2) Diário de prática da criança.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Emmanuel Elly · 🎵 Music starts with understanding the basics! 🎹 From sound and pitch to music",
+        "url": "https://www.facebook.com/reel/1751448235893236/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir orientações para famílias e educadores."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Revisar idioma, exemplos e prática pedagógica."
+      },
+      "EU": {
+        "fit": "Potencial médio por país",
+        "note": "Traduzir e ajustar à prática pedagógica local."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-019",
+    "title": "Violão de acompanhamento para louvor",
+    "front": "Música · violão; igreja; iniciante.",
+    "audience": "Quem conhece alguns acordes e precisa acompanhar repertório de igreja.",
+    "deliverable": "Aulas curtas de batidas e trocas, fichas de prática e repertório original ou autorizado.",
+    "evidence": "O Swipe descreve um PDF de cifras simplificadas de louvores; nos Salvos há também o curso Toque na Missa.",
+    "production": "Médio; delimitar o público e conferir repertório utilizável.",
+    "bumps": "(1) Guia de montagem de repertório; (2) Exercícios de entradas e finais.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Salmistas e Adoradores · 🎶 Pacote com 300 Cifras Simplificadas de Louvores! 🎶 ✨Como é bom ter",
+        "url": "https://www.facebook.com/61566635739198/videos/903943721193074/",
+        "note": "listagem Swipe ao vivo; texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Toque na Missa",
+        "url": "https://www.instagram.com/p/DY7oyrWgKfU/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Espanhol e repertório/tradições de louvor locais."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Definir idioma, repertório e tradição da comunidade."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Aderência depende da comunidade e do repertório."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-020",
+    "title": "Dedilhados e acompanhamentos no teclado",
+    "front": "Música · teclado; louvor; prática.",
+    "audience": "Tecladistas que copiam padrões e travam quando a música muda.",
+    "deliverable": "Rotina curta de exercícios, vídeos demonstrativos e fichas para construir acompanhamentos.",
+    "evidence": "A referência Destrave Seu Dedilhado no Louvor apresenta essa dificuldade e um evento gratuito; não comprova oferta low ticket.",
+    "production": "Médio; prioridade pelo conhecimento musical existente.",
+    "bumps": "(1) Áudios lentos para praticar; (2) Guia de inversões básicas.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Destrave Seu Dedilhado no Louvor",
+        "url": "https://www.instagram.com/p/Dd2F4VKg2_I/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir e adaptar repertório de louvor."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Idioma, repertório e convenções de cifra locais."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Idioma, repertório e comunidade definem a adaptação."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-021",
+    "title": "Transposição prática no violão",
+    "front": "Música · violão; cifras; tonalidade.",
+    "audience": "Instrumentistas que precisam acompanhar cantores em tons diferentes.",
+    "deliverable": "Mapa original de transposição, exercícios com capotraste e exemplos gravados.",
+    "evidence": "A referência do Swipe é um conteúdo sobre tocar em todos os tons; o pacote digital é uma adaptação.",
+    "production": "Baixo a médio; validar com iniciantes.",
+    "bumps": "(1) Tabela de campo harmônico; (2) Exercícios com mudança de tom.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Violão em 8 semanas · Aprenda a Tocar em TODOS OS TONS com esse TRUQUE no violão! - Fácil, Rápi",
+        "url": "https://www.facebook.com/reel/1661059671613372/",
+        "note": "listagem Swipe ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Conceito musical amplo; traduzir termos e exemplos."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Adaptar nomes de acordes e terminologia em inglês."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir a terminologia e exemplos."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-022",
+    "title": "Treino de ouvido para reconhecer acordes",
+    "front": "Música · ouvido musical; violão.",
+    "audience": "Quem depende de cifras e quer começar a identificar o que ouve.",
+    "deliverable": "Áudios próprios de comparação, exercícios graduais, gabarito e rotina de prática.",
+    "evidence": "O Swipe registra um método de tocar de ouvido; o Instagram salvo afirma que treinar o ouvido ajuda a dominar o instrumento.",
+    "production": "Médio; promessa deve ser habilidade gradual, não resultado em minutos.",
+    "bumps": "(1) Treino de intervalos; (2) Exercícios de ritmo e reconhecimento.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Violão em 8 semanas · Toque de Ouvido em 18min. Usando um metodo chamado o Triângulo Mágico.",
+        "url": "https://www.facebook.com/reel/2212265512955637/",
+        "note": "listagem Swipe ao vivo; texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Conteúdo sobre treino de ouvido",
+        "url": "https://www.instagram.com/p/DVIFto7jDoC/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Treino auditivo é amplo; traduzir instruções e exemplos."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Conteúdo musical amplo; localizar terminologia."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir instruções e exemplos."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-023",
+    "title": "Bases originais para treino de ritmo e improvisação",
+    "front": "Música · bases; estudo musical; áudio.",
+    "audience": "Instrumentistas iniciantes que querem praticar com acompanhamento simples.",
+    "deliverable": "Grooves e progressões originais em poucos tons e velocidades, com fichas de prática.",
+    "evidence": "O Instagram anuncia mais de 527 bases sem voz, violão ou guitarra; a proposta muda o foco para estudo, não replica o acervo.",
+    "production": "Médio; verificar se complementa o produto que já roda.",
+    "bumps": "(1) Versões lentas e loops; (2) Rotinas de improvisação.",
+    "origin": "IG",
+    "refs": [
+      {
+        "title": "Bases Profissionais",
+        "url": "https://www.instagram.com/p/DePcGLxAoPO/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Bases instrumentais; adaptar gêneros e instruções."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Bases musicais; selecionar gêneros e níveis locais."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Adaptar gêneros, idioma das instruções e formatos de áudio."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-024",
+    "title": "Faça uma canção-presente com IA",
+    "front": "Música · música; IA; presentes.",
+    "audience": "Pessoas que querem transformar uma história familiar em uma canção original.",
+    "deliverable": "Guia de entrevista, estruturas de letra, prompts, revisão e passos de geração/exportação.",
+    "evidence": "Som de Afeto oferece uma música personalizada para netos; a proposta é um kit educativo, não o serviço observado.",
+    "production": "Médio; avaliar qualidade e condições de uso da ferramenta.",
+    "bumps": "(1) Templates de letra por ocasião; (2) Cards e vídeo simples para entregar o presente.",
+    "origin": "SW + FB",
+    "refs": [
+      {
+        "title": "Já imaginou seu neto ouvindo uma música feita especialmente para ele, com o nome dele na letra?",
+        "url": "https://www.facebook.com/reel/1555360709167043/",
+        "note": "Salvos FB ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Idioma das letras, voz, direitos e ferramentas locais."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Inglês e ferramentas; esclarecer uso de voz/imagem e direitos."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Localizar idioma e observar regras de dados e direitos aplicáveis."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-025",
+    "title": "Rotina de canto para atores e apresentadores",
+    "front": "Música · canto; teatro; performance.",
+    "audience": "Atores que querem organizar a prática de canto para uma apresentação.",
+    "deliverable": "Sequência de estudo gravada com professor, guia de preparação e acompanhamento da prática.",
+    "evidence": "No Swipe, título e notas dizem Rotina Essencial de Canto para atores; exercícios específicos não estão descritos.",
+    "production": "Alto sem professor de canto; confirmar a proposta no original.",
+    "bumps": "(1) Guia de estudo do repertório; (2) Planner de ensaio e gravação.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Motivo Arts — rotina de canto",
+        "url": "https://www.facebook.com/arts.motivo/videos/1422139272495291/",
+        "note": "detalhe/notas Swipe ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Traduzir e adaptar exemplos à formação cênica local."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês e exemplos de teatro/atuação locais."
+      },
+      "EU": {
+        "fit": "Potencial médio por país",
+        "note": "Idioma e contextos de formação variam."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-026",
+    "title": "II–V–I aplicado ao teclado",
+    "front": "Música · teclado; harmonia; intermediário.",
+    "audience": "Tecladistas que sabem acordes isolados e precisam conectar progressões.",
+    "deliverable": "Workbook, áudio e vídeos próprios de cadências em diferentes tons, com exercícios de voicing.",
+    "evidence": "O texto armazenado explica a cadência II–V–I e propõe ouvir funções e transportar tonalidades.",
+    "production": "Médio; produto técnico mais estreito que um curso completo de teclado.",
+    "bumps": "(1) Treino de inversões; (2) Loops originais em diferentes andamentos.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Curso Piano Online Denilson Silva · 🎹 SE VOCÊ QUER ENTENDER HARMONIA, PRECISA DOMINAR O II–V–I",
+        "url": "https://www.facebook.com/denilson.silva70/posts/pfbid02ErmCdwndcoiD8thSdrzwGQJKtcL85pyaU4BRoxQr8oyMT7GPC7C9Nmbg5b5ECohhl",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Teoria musical ampla; traduzir termos e exemplos."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Localizar termos de harmonia e materiais."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir termos e notação conforme público."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "category": "Música",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-027",
+    "title": "Da foto de produto ao anúncio com IA",
+    "front": "Jéssica — IA/marketing · IA; produto físico; criativos.",
+    "audience": "Pequenos lojistas que têm fotos e não sabem montar um roteiro visual de anúncio.",
+    "deliverable": "Guia com briefing, storyboard, prompts editáveis, exemplos próprios e checklist de fidelidade ao produto.",
+    "evidence": "O texto do Swipe demonstra transformar uma foto em storyboard e vídeo por um fluxo de prompts; a referência distribui um guia gratuito.",
+    "production": "Médio; testar custo e consistência visual antes de oferecer.",
+    "bumps": "(1) Templates de narração e CTA; (2) Checklist de formatos de anúncio.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Turn one product photo into a full cinematic ad.",
+        "url": "https://www.instagram.com/p/DaBe7NlCf2E/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Traduzir prompts e ajustar anúncios ao idioma e regras locais."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Inglês, ferramentas e regras de publicidade locais."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Traduzir; observar regras locais de publicidade e IA."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-028",
+    "title": "Catálogo de moda com fotos e vídeos de IA",
+    "front": "Jéssica — IA/marketing · IA; moda; e-commerce.",
+    "audience": "Boutiques pequenas que precisam mostrar combinações de roupas com clareza.",
+    "deliverable": "Fluxo para montar looks a partir de fotos próprias, prompts, exemplos e revisão da fidelidade da peça.",
+    "evidence": "A referência explica um efeito de moda com roupas ao lado da modelo e vídeo editorial.",
+    "production": "Médio; cuidado central é não alterar características do produto.",
+    "bumps": "(1) Roteiros de provador e Stories; (2) Templates de combinações e descrição.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Você não precisa de fotógrafo, modelo contratada ou estúdio para criar conteúdo de moda…",
+        "url": "https://www.instagram.com/p/DV9cHgJjLOP/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Idioma, moda, corpos, tamanhos e ferramentas variam."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês, grade/tamanhos e representação local."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Tamanhos, estilos, idioma e regras de imagem precisam de localização."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-029",
+    "title": "Apresentadores virtuais para demonstrações",
+    "front": "Jéssica — IA/marketing · IA; conteúdo sem aparecer; vídeo.",
+    "audience": "Criadores e pequenos negócios que querem produzir demonstrações sem gravar o próprio rosto.",
+    "deliverable": "Guia de personagens fictícios consistentes, roteiros, geração de cenas e identificação clara de conteúdo sintético.",
+    "evidence": "O post salvo mostra pessoas criadas por IA para publicidade e vídeos de produto e oferece o passo a passo.",
+    "production": "Médio a alto; não usar como falso depoimento de cliente.",
+    "bumps": "(1) Roteiros de demonstração por segmento; (2) Guia de continuidade de personagem.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Comenta \"HUMANO\"",
+        "url": "https://www.instagram.com/p/Dd4M06VgNGN/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Dublagem/idioma natural e sinalização de conteúdo sintético."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês natural, divulgação de IA e contexto de anúncios."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Idioma e transparência de conteúdo sintético precisam de revisão local."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-030",
+    "title": "Animações de logo para pequenos negócios",
+    "front": "Jéssica — IA/marketing · IA; identidade visual; motion.",
+    "audience": "Prestadores que precisam de uma abertura curta para seus vídeos.",
+    "deliverable": "Prompts e exemplos de cinco direções visuais, guia de upload e exportação e arquivos de prática próprios.",
+    "evidence": "O post dos Salvos enumera cinco formas de animar um logo estático no Google Flow.",
+    "production": "Baixo a médio; escopo demonstrável e pequeno.",
+    "bumps": "(1) Templates de encerramento; (2) Guia de som e formatos.",
+    "origin": "IG",
+    "refs": [
+      {
+        "title": "Cinco direções de animação de logo",
+        "url": "https://www.instagram.com/p/Ddx6eybRrgQ/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Demonstração é visual; adaptar briefing e identidade local."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês e repertório de marcas/clientes locais."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Localizar idioma e expectativas visuais do país."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-031",
+    "title": "Transforme seu vídeo em personagem animado",
+    "front": "Jéssica — IA/marketing · IA; cartoon; conteúdo criativo.",
+    "audience": "Criadores iniciantes que querem um efeito cartoon mantendo o movimento original.",
+    "deliverable": "Tutorial, prompts editáveis e checklist de referência de personagem e movimento, com exemplos próprios.",
+    "evidence": "O texto do Swipe descreve o fluxo de vídeo, referência de personagem e nova geração; nos Salvos há também tutorial de primeiro desenho animado.",
+    "production": "Médio; confirmar ferramentas e custo na produção.",
+    "bumps": "(1) Guia de consistência de personagem; (2) Roteiros curtos de cenas.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Comment CARTOON and I’ll send you both prompts + the full setup 👇",
+        "url": "https://www.instagram.com/p/Daz1K2WIRuZ/",
+        "note": "texto do Swipe no backup de 10/10."
+      },
+      {
+        "title": "Primeiro cartoon com IA",
+        "url": "https://www.instagram.com/p/DcLOhKpoJyU/",
+        "note": "Salvos IG ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Traduzir prompts e adaptar formatos das plataformas."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Inglês e formatos de plataforma."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Idioma, plataforma e transparência de imagem sintética."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-032",
+    "title": "Banco de ganchos para pequenos negócios",
+    "front": "Jéssica — IA/marketing · copy; criativos; marketing.",
+    "audience": "Profissionais que demoram para começar um vídeo e repetem aberturas genéricas.",
+    "deliverable": "Banco autoral organizado por objetivo e segmento, exemplos e exercícios de adaptação.",
+    "evidence": "A referência oferece mil templates de ganchos; isso evidencia o formato de material, não seu desempenho.",
+    "production": "Baixo; diferenciar por público e aplicação, não por quantidade.",
+    "bumps": "(1) Roteiros completos a partir de um gancho; (2) Planilha de teste e resultado.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Comment Hooks for my 1000 viral hooks templates",
+        "url": "https://www.instagram.com/p/DdzXvSrOLTA/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Ganchos dependem de espanhol natural e nicho local."
+      },
+      "USA": {
+        "fit": "Potencial baixo sem redator local",
+        "note": "Precisa de escrita nativa e referências do público."
+      },
+      "EU": {
+        "fit": "Potencial baixo sem localização",
+        "note": "Produzir por país/idioma com linguagem realmente local."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-033",
+    "title": "Calendário editorial com IA para negócios locais",
+    "front": "Jéssica — IA/marketing · IA; conteúdo; planejamento.",
+    "audience": "Negócios locais sem rotina consistente de publicação.",
+    "deliverable": "Planilha de calendário, briefing, prompts por etapa e exemplos de posts revisados para um segmento definido.",
+    "evidence": "O Swipe guarda anúncio do AI Creator Pro que promete facilitar produção de conteúdo; o planner é adaptação sem criar software.",
+    "production": "Baixo a médio; escolher um segmento na modelagem.",
+    "bumps": "(1) Templates de Stories; (2) Guia de reaproveitamento de conteúdo.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Você é excelente no que faz, mas a produção de conteúdo te consome? Com o AI Creator Pr…",
+        "url": "https://www.instagram.com/p/DYd4SAhjN38/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Calendário, datas e tom variam por país."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Datas comerciais e práticas locais."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Calendário e idioma locais; não tratar Europa como bloco."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-034",
+    "title": "Vídeos de produto usando apenas o celular",
+    "front": "Jéssica — IA/marketing · vídeo; produto físico; conteúdo.",
+    "audience": "Lojistas e artesãs com celular, produto em mãos e pouco orçamento de produção.",
+    "deliverable": "Shot lists, esquemas simples de luz, exercícios de enquadramento e tutorial de edição curta.",
+    "evidence": "A legenda nos Salvos descreve técnicas para produzir vídeos com o celular, sem câmera cara.",
+    "production": "Baixo a médio; demonstrar técnicas reais em produtos da equipe.",
+    "bumps": "(1) Roteiros de demonstração por produto; (2) Checklist de montagem do cenário.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Quando os vídeos são todos iguais, sem criatividade e sem impacto...",
+        "url": "https://www.instagram.com/p/DdAly_1sBg5/",
+        "note": "Salvos IG ao vivo; texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Ensino demonstrativo; localizar linguagem e exemplos."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Localizar linguagem, equipamentos e exemplos."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Localizar idioma, exemplos e equipamentos."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-035",
+    "title": "Respostas e follow-up para vendas no WhatsApp",
+    "front": "Jéssica — IA/marketing · WhatsApp; vendas; pequenos negócios.",
+    "audience": "Pequenos vendedores que usam a mesma mensagem para todos os contatos.",
+    "deliverable": "Biblioteca autoral de respostas rápidas por situação, roteiro de diagnóstico e sequência manual de acompanhamento.",
+    "evidence": "A referência oferece um funil que adapta a abordagem ao lead; números de conversão e faturamento do post não foram verificados.",
+    "production": "Baixo a médio; a proposta inicial é material de uso manual.",
+    "bumps": "(1) Planilha de acompanhamento dos contatos; (2) FAQ e respostas para objeções.",
+    "origin": "SW",
+    "refs": [
+      {
+        "title": "Se você vende pelo WhatsApp, provavelmente está cometendo o erro que mais destrói lucro…",
+        "url": "https://www.instagram.com/p/DYqkizLAD0J/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "WhatsApp é relevante em muitos países; validar por país."
+      },
+      "USA": {
+        "fit": "Potencial baixo para WhatsApp",
+        "note": "Talvez adaptar para SMS/DM; validar canal e regras antes de oferecer."
+      },
+      "EU": {
+        "fit": "Potencial por país",
+        "note": "Uso do WhatsApp varia; escolher mercado e canal local."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-036",
+    "title": "Comece um canal de achadinhos de nicho",
+    "front": "Jéssica — IA/marketing · afiliados; achadinhos; curadoria.",
+    "audience": "Iniciantes que querem organizar um canal de ofertas com público definido.",
+    "deliverable": "Guia de seleção de nicho, curadoria, verificação de preço, calendário e modelos de postagem.",
+    "evidence": "Há grupo de ofertas nos Salvos atuais e um canal especializado em produtos para gatos no Swipe.",
+    "production": "Baixo a médio; validar a própria rotina antes de ensinar.",
+    "bumps": "(1) Planilha de links e campanhas; (2) Templates de post e calendário.",
+    "origin": "SW + IG",
+    "refs": [
+      {
+        "title": "Grupo de ofertas nos Salvos",
+        "url": "https://www.instagram.com/p/DeIfTOos29e/",
+        "note": "Salvos IG ao vivo."
+      },
+      {
+        "title": "Não compre nada para o seu gato antes de entrar neste grupo! Todos os dias compartil…",
+        "url": "https://www.instagram.com/p/DZf0k03AH7-/",
+        "note": "texto do Swipe no backup de 10/10."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Afiliados, canais e regras mudam por país."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Plataformas, afiliados, divulgação e idioma locais."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Plataformas, publicidade e divulgação por país."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "category": "IA e marketing",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-037",
+    "title": "Brinquedos de papel para imprimir e montar",
+    "front": "Nicho aberto · infantil; papelaria; atividades sem tela.",
+    "audience": "Famílias e professores que precisam de atividades manuais econômicas.",
+    "deliverable": "Seleção pequena de brinquedos autorais, moldes, instruções de montagem e níveis de dificuldade.",
+    "evidence": "Nos Salvos do Facebook, o título oferece mais de 150 brinquedos de papel para imprimir e montar; os moldes não foram examinados.",
+    "production": "Baixo a médio; prototipar montagem e adequação por idade.",
+    "bumps": "(1) Cards de brincadeiras em grupo; (2) Guia de impressão e armazenamento.",
+    "origin": "FB",
+    "refs": [
+      {
+        "title": "Brinquedos de papel — Info Cursos Brasil",
+        "url": "https://www.facebook.com/infocursosbroficial/posts/pfbid0NYLtZTqsqPnDPUrRpusJ7NbPXCN84hJBiAg9Y69AtWgPXnce8SL1nqR6rXiZBGbBl",
+        "note": "Salvos FB ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial alto",
+        "note": "Brincadeira visual; traduzir instruções e medidas."
+      },
+      "USA": {
+        "fit": "Potencial alto",
+        "note": "Traduzir montagem e usar medidas de impressão locais."
+      },
+      "EU": {
+        "fit": "Potencial alto por país",
+        "note": "Traduzir e confirmar formatos de papel e impressão."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-038",
+    "title": "Horta doméstica com pouca luz",
+    "front": "Nicho aberto · jardinagem; casa; hobby.",
+    "audience": "Moradores com varanda ou quintal sombreado que não sabem o que cultivar.",
+    "deliverable": "Guia visual, fichas de espécies, observação de luz e diário de cultivo, com revisão horticultural.",
+    "evidence": "O post salvo é um conteúdo sobre sete vegetais que crescem na sombra; o produto digital é uma adaptação.",
+    "production": "Médio; diferenciar sombra parcial de ausência de luz.",
+    "bumps": "(1) Planner de cuidados; (2) Checklist de recipientes e materiais.",
+    "origin": "FB",
+    "refs": [
+      {
+        "title": "Horta Caseira — vegetais na sombra",
+        "url": "https://www.facebook.com/reel/1420560302747852/",
+        "note": "Salvos FB ao vivo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Base inicial",
+        "note": "Português e contexto brasileiro; ainda precisa validar preço, público e anúncios."
+      },
+      "LATAM": {
+        "fit": "Potencial médio",
+        "note": "Clima, espécies, sazonalidade e segurança de cultivo locais."
+      },
+      "USA": {
+        "fit": "Potencial médio",
+        "note": "Zonas climáticas e espécies diferem por região."
+      },
+      "EU": {
+        "fit": "Potencial médio",
+        "note": "Estações, luz e espécies mudam por país e região."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "category": "Nicho aberto",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-039",
+    "title": "Bordado em papel para iniciantes",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: coleção pequena de moldes próprios + vídeos de primeiros pontos; bump de datas sazonais e ficha de materiais/preço. A página observada anuncia 200 modelos e R$37.",
+    "deliverable": "coleção pequena de moldes próprios + vídeos de primeiros pontos; bump de datas sazonais e ficha de materiais/preço. A página observada anuncia 200 modelos e R$37.",
+    "evidence": "Formato observado: Artesanato / bordado. coleção pequena de moldes próprios + vídeos de primeiros pontos; bump de datas sazonais e ficha de materiais/preço. A página observada anuncia 200 modelos e R$37.",
+    "production": "Dificuldade estimada na triagem: Média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Página de vendas · BordaPapel",
+        "url": "https://bordadocriativo.online/bordado/",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Artesanato / bordado."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Artesanato / bordado",
+    "marketNotes": "BR primeiro; LATAM/EUA/EU com idioma, materiais, formatos e ocasiões locais.",
+    "sourceConcept": "coleção pequena de moldes próprios + vídeos de primeiros pontos; bump de datas sazonais e ficha de materiais/preço. A página observada anuncia 200 modelos e R$37.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-040",
+    "title": "Kit de festa editável",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: temas originais no Canva, topo, bandeirola e instrução de impressão; bumps de tags e checklist da festa. Uma página anuncia 10 mil temas e R$10.",
+    "deliverable": "temas originais no Canva, topo, bandeirola e instrução de impressão; bumps de tags e checklist da festa. Uma página anuncia 10 mil temas e R$10.",
+    "evidence": "Formato observado: Papelaria / festas. temas originais no Canva, topo, bandeirola e instrução de impressão; bumps de tags e checklist da festa. Uma página anuncia 10 mil temas e R$10.",
+    "production": "Dificuldade estimada na triagem: Baixa-média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Página de vendas · Kit Festinha Digital",
+        "url": "https://paginas.lowify.com.br/p/0596/kitfestinhadigital",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Papelaria / festas."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Papelaria / festas",
+    "marketNotes": "BR; LATAM/EUA/EU localizando festas, idioma, tamanhos e licenças.",
+    "sourceConcept": "temas originais no Canva, topo, bandeirola e instrução de impressão; bumps de tags e checklist da festa. Uma página anuncia 10 mil temas e R$10.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-041",
+    "title": "Topos de bolo para produção rápida",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: coleção curada e testada em Canva/Silhouette, com formatos e instruções, sem depender de contagem inflada de arquivos. A página anuncia planos de R$1,49 e R$9,90.",
+    "deliverable": "coleção curada e testada em Canva/Silhouette, com formatos e instruções, sem depender de contagem inflada de arquivos. A página anuncia planos de R$1,49 e R$9,90.",
+    "evidence": "Formato observado: Personalizados / confeitaria. coleção curada e testada em Canva/Silhouette, com formatos e instruções, sem depender de contagem inflada de arquivos. A página anuncia planos de R$1,49 e R$9,90.",
+    "production": "Dificuldade estimada na triagem: Média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Página de vendas · topos de bolo",
+        "url": "https://clubedasublimacao.shop/topos-de-bolos",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Personalizados / confeitaria."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Personalizados / confeitaria",
+    "marketNotes": "BR; LATAM/EUA/EU após revisar softwares, medidas, temas e direitos.",
+    "sourceConcept": "coleção curada e testada em Canva/Silhouette, com formatos e instruções, sem depender de contagem inflada de arquivos. A página anuncia planos de R$1,49 e R$9,90.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-042",
+    "title": "Artes de sublimação/DTF por nicho",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: começar com uma coleção original de canecas ou um segmento, mockups e licença clara de uso comercial. Os anúncios anunciam 200 mil a 500 mil artes.",
+    "deliverable": "começar com uma coleção original de canecas ou um segmento, mockups e licença clara de uso comercial. Os anúncios anunciam 200 mil a 500 mil artes.",
+    "evidence": "Formato observado: Sublimação / DTF. começar com uma coleção original de canecas ou um segmento, mockups e licença clara de uso comercial. Os anúncios anunciam 200 mil a 500 mil artes.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Super Pack Tazas",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22superpacktazas.criativiadigital.com%20%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Sublimação / DTF."
+      },
+      {
+        "title": "Biblioteca · Mega Pack Elite DTF",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1109995005536809",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Sublimação / DTF."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Sublimação / DTF",
+    "marketNotes": "BR, LATAM, EUA e EU; localizar idioma, tendências, formatos e direitos de imagem/marca.",
+    "sourceConcept": "começar com uma coleção original de canecas ou um segmento, mockups e licença clara de uso comercial. Os anúncios anunciam 200 mil a 500 mil artes.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-043",
+    "title": "Encadernação Express",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: projeto inicial de caderno com molde, lista de materiais, aula curta e planilha de custo; testar contra a oferta ampla de 2027.",
+    "deliverable": "projeto inicial de caderno com molde, lista de materiais, aula curta e planilha de custo; testar contra a oferta ampla de 2027.",
+    "evidence": "Formato observado: Papelaria / encadernação. projeto inicial de caderno com molde, lista de materiais, aula curta e planilha de custo; testar contra a oferta ampla de 2027.",
+    "production": "Dificuldade estimada na triagem: Média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Encadernação Express 2.0",
+        "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=622470574285847",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Papelaria / encadernação."
+      },
+      {
+        "title": "Página de vendas · EXP 6",
+        "url": "https://digitalperformance.online/exp2027-6/",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Papelaria / encadernação."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Papelaria / encadernação",
+    "marketNotes": "BR e países lusófonos primeiro; depois traduzir e localizar materiais.",
+    "sourceConcept": "projeto inicial de caderno com molde, lista de materiais, aula curta e planilha de custo; testar contra a oferta ampla de 2027.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-044",
+    "title": "Presépio de amigurumi",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: poucos padrões próprios, testados e fotografados, com sequência de montagem; bump de personagens/decoração natalina. Referência portuguesa anuncia 27 projetos por €9,90.",
+    "deliverable": "poucos padrões próprios, testados e fotografados, com sequência de montagem; bump de personagens/decoração natalina. Referência portuguesa anuncia 27 projetos por €9,90.",
+    "evidence": "Formato observado: Artesanato / sazonal. poucos padrões próprios, testados e fotografados, com sequência de montagem; bump de personagens/decoração natalina. Referência portuguesa anuncia 27 projetos por €9,90.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Presépio de Fios",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22portaldeoportunidades.site%20%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Artesanato / sazonal."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "formatObserved": "Artesanato / sazonal",
+    "marketNotes": "Portugal e EU lusófona primeiro; BR/LATAM ajustando vocabulário, calendário e padrão.",
+    "sourceConcept": "poucos padrões próprios, testados e fotografados, com sequência de montagem; bump de personagens/decoração natalina. Referência portuguesa anuncia 27 projetos por €9,90.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-045",
+    "title": "Songbook de violão para louvor em espanhol",
+    "front": "Música",
+    "category": "Música",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: método visual de ritmo e acordes simples com repertório próprio/autorizado. A biblioteca mostra variantes para missa, louvor, rock latino, baladas e boleros.",
+    "deliverable": "método visual de ritmo e acordes simples com repertório próprio/autorizado. A biblioteca mostra variantes para missa, louvor, rock latino, baladas e boleros.",
+    "evidence": "Formato observado: Música / violão / fé. método visual de ritmo e acordes simples com repertório próprio/autorizado. A biblioteca mostra variantes para missa, louvor, rock latino, baladas e boleros.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Tocar Desde Cero",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100825239044397",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Música / violão / fé."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Música / violão / fé",
+    "marketNotes": "LATAM e hispânicos nos EUA/EU; BR com repertório e linguagem local. Direitos de uso são pré-requisito.",
+    "sourceConcept": "método visual de ritmo e acordes simples com repertório próprio/autorizado. A biblioteca mostra variantes para missa, louvor, rock latino, baladas e boleros.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-046",
+    "title": "Harpa Cristã sem pestanas",
+    "front": "Música",
+    "category": "Música",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: trilha curta para iniciantes, acordes simplificados, ritmos e vídeos originais; bump de prática/organização de repertório. Anúncios oferecem apostila pelo WhatsApp.",
+    "deliverable": "trilha curta para iniciantes, acordes simplificados, ritmos e vídeos originais; bump de prática/organização de repertório. Anúncios oferecem apostila pelo WhatsApp.",
+    "evidence": "Formato observado: Música / fé / violão. trilha curta para iniciantes, acordes simplificados, ritmos e vídeos originais; bump de prática/organização de repertório. Anúncios oferecem apostila pelo WhatsApp.",
+    "production": "Dificuldade estimada na triagem: Média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Harpa Cristã para violão",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=112027990158559",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Música / fé / violão."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Música / fé / violão",
+    "marketNotes": "BR primeiro; Portugal e outros mercados lusófonos. Confirmar direitos das músicas/arranjos.",
+    "sourceConcept": "trilha curta para iniciantes, acordes simplificados, ritmos e vídeos originais; bump de prática/organização de repertório. Anúncios oferecem apostila pelo WhatsApp.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-047",
+    "title": "Guitarra chord melody",
+    "front": "Música",
+    "category": "Música",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: aulas curtas em vídeo, níveis progressivos, exercícios e repertório original/licenciado; a oferta observada descreve mais de 100 lições.",
+    "deliverable": "aulas curtas em vídeo, níveis progressivos, exercícios e repertório original/licenciado; a oferta observada descreve mais de 100 lições.",
+    "evidence": "Formato observado: Música / guitarra. aulas curtas em vídeo, níveis progressivos, exercícios e repertório original/licenciado; a oferta observada descreve mais de 100 lições.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Guitar Chord Melody Club",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=guitarchordmelodyclub.com&search_type=keyword_unordered&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Música / guitarra."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Música / guitarra",
+    "marketNotes": "EUA/EU e público global; BR/LATAM traduzindo aulas. Uso de repertório depende de autorização.",
+    "sourceConcept": "aulas curtas em vídeo, níveis progressivos, exercícios e repertório original/licenciado; a oferta observada descreve mais de 100 lições.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-048",
+    "title": "Atlas visual de geografia bíblica",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: mapas e rotas com fontes verificáveis, cronologia e guia de leitura. O anunciante oferece guia 3D com mais de 300 imagens.",
+    "deliverable": "mapas e rotas com fontes verificáveis, cronologia e guia de leitura. O anunciante oferece guia 3D com mais de 300 imagens.",
+    "evidence": "Formato observado: Religião / estudo. mapas e rotas com fontes verificáveis, cronologia e guia de leitura. O anunciante oferece guia 3D com mais de 300 imagens.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · 3D Bible Publisher",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=667613779763760",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / estudo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / estudo",
+    "marketNotes": "EUA, EU, BR e LATAM, com revisão histórica/teológica e localização.",
+    "sourceConcept": "mapas e rotas com fontes verificáveis, cronologia e guia de leitura. O anunciante oferece guia 3D com mais de 300 imagens.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-049",
+    "title": "Bíblia em visão geral",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: resumos visuais por livro, temas, cronologia e perguntas para estudo em grupo. Anúncios distintos mostram “The Word Made Clear” e resumo cronológico da Bíblia.",
+    "deliverable": "resumos visuais por livro, temas, cronologia e perguntas para estudo em grupo. Anúncios distintos mostram “The Word Made Clear” e resumo cronológico da Bíblia.",
+    "evidence": "Formato observado: Religião / estudo. resumos visuais por livro, temas, cronologia e perguntas para estudo em grupo. Anúncios distintos mostram “The Word Made Clear” e resumo cronológico da Bíblia.",
+    "production": "Dificuldade estimada na triagem: Média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Instituto La Palabra",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&source=page-transparency-widget&view_all_page_id=799374959915226",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / estudo."
+      },
+      {
+        "title": "Biblioteca · Rooted in Faith",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22ROOTEDINFAITH.CO%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / estudo."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / estudo",
+    "marketNotes": "EUA/EU e LATAM; BR após tradução e revisão por tradição denominacional.",
+    "sourceConcept": "resumos visuais por livro, temas, cronologia e perguntas para estudo em grupo. Anúncios distintos mostram “The Word Made Clear” e resumo cronológico da Bíblia.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-050",
+    "title": "Apologética cristã para crianças",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: lições curtas no formato pergunta, evidência e atividade para famílias. A referência descreve faixa de 8–14 anos.",
+    "deliverable": "lições curtas no formato pergunta, evidência e atividade para famílias. A referência descreve faixa de 8–14 anos.",
+    "evidence": "Formato observado: Religião / infantil. lições curtas no formato pergunta, evidência e atividade para famílias. A referência descreve faixa de 8–14 anos.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Cristo, Nuestro Guía",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1026798197190959",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / infantil."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / infantil",
+    "marketNotes": "LATAM, EUA e EU; BR com vocabulário, faixa etária e linha teológica local.",
+    "sourceConcept": "lições curtas no formato pergunta, evidência e atividade para famílias. A referência descreve faixa de 8–14 anos.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-051",
+    "title": "Esboços bíblicos para pregadores",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: séries curtas e originais com estrutura, referências e perguntas para aplicação; referência de esboço sobre os milagres da cruz.",
+    "deliverable": "séries curtas e originais com estrutura, referências e perguntas para aplicação; referência de esboço sobre os milagres da cruz.",
+    "evidence": "Formato observado: Religião / liderança. séries curtas e originais com estrutura, referências e perguntas para aplicação; referência de esboço sobre os milagres da cruz.",
+    "production": "Dificuldade estimada na triagem: Baixa-média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Esboços Bíblicos",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22esbocosbiblicos.com%20%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / liderança."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / liderança",
+    "marketNotes": "BR e mercados lusófonos; LATAM por tradução e revisão teológica local.",
+    "sourceConcept": "séries curtas e originais com estrutura, referências e perguntas para aplicação; referência de esboço sobre os milagres da cruz.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-052",
+    "title": "Curso introdutório de teologia em espanhol",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: módulos curtos, leituras, exercícios e certificado com política clara; o anúncio declara pagamento único de US$12 e acesso ao Drive.",
+    "deliverable": "módulos curtos, leituras, exercícios e certificado com política clara; o anúncio declara pagamento único de US$12 e acesso ao Drive.",
+    "evidence": "Formato observado: Religião / educação. módulos curtos, leituras, exercícios e certificado com política clara; o anúncio declara pagamento único de US$12 e acesso ao Drive.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Biblioteca de Fe y Sanación",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1066707666526795",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / educação."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / educação",
+    "marketNotes": "LATAM, hispânicos nos EUA e Espanha; BR só com produção/tradução próprias.",
+    "sourceConcept": "módulos curtos, leituras, exercícios e certificado com política clara; o anúncio declara pagamento único de US$12 e acesso ao Drive.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-053",
+    "title": "Kit para encontro de mulheres de fé",
+    "front": "Religião",
+    "category": "Religião",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: roteiro de dinâmica, cartões com versículos e materiais de mesa editáveis; referência anuncia US$3,90.",
+    "deliverable": "roteiro de dinâmica, cartões com versículos e materiais de mesa editáveis; referência anuncia US$3,90.",
+    "evidence": "Formato observado: Religião / eventos. roteiro de dinâmica, cartões com versículos e materiais de mesa editáveis; referência anuncia US$3,90.",
+    "production": "Dificuldade estimada na triagem: Baixa. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Terapia Bíblica",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&source=page-transparency-widget&view_all_page_id=501513909721784",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Religião / eventos."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Religião / eventos",
+    "marketNotes": "LATAM primeiro; EUA/EU hispânica e BR com idioma e costumes locais.",
+    "sourceConcept": "roteiro de dinâmica, cartões com versículos e materiais de mesa editáveis; referência anuncia US$3,90.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-054",
+    "title": "Mapas mentais de idiomas",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: iniciar com um idioma/nível, mapas originais, áudio de pronúncia e exercícios. Anúncios exibem chinês e alemão, 300 mapas e preços/bonificações variados.",
+    "deliverable": "iniciar com um idioma/nível, mapas originais, áudio de pronúncia e exercícios. Anúncios exibem chinês e alemão, 300 mapas e preços/bonificações variados.",
+    "evidence": "Formato observado: Educação / idiomas. iniciar com um idioma/nível, mapas originais, áudio de pronúncia e exercícios. Anúncios exibem chinês e alemão, 300 mapas e preços/bonificações variados.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Octomaps",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=octomaps.online&search_type=keyword_unordered&sort_data[direction]=desc&sort_data[mode]=total_impressions",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação / idiomas."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação / idiomas",
+    "marketNotes": "BR/LATAM para aprender línguas; EUA/EU para outros idiomas com revisão de falante fluente.",
+    "sourceConcept": "iniciar com um idioma/nível, mapas originais, áudio de pronúncia e exercícios. Anúncios exibem chinês e alemão, 300 mapas e preços/bonificações variados.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-055",
+    "title": "Mapas mentais de fisioterapia",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: conjunto pequeno por disciplina/prova, PDF com referências e revisão por fisioterapeuta. A página anuncia 200+ mapas em 12 módulos por R$10.",
+    "deliverable": "conjunto pequeno por disciplina/prova, PDF com referências e revisão por fisioterapeuta. A página anuncia 200+ mapas em 12 módulos por R$10.",
+    "evidence": "Formato observado: Educação / saúde. conjunto pequeno por disciplina/prova, PDF com referências e revisão por fisioterapeuta. A página anuncia 200+ mapas em 12 módulos por R$10.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · mapas de Fisioterapia",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=938394142679810",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação / saúde."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação / saúde",
+    "marketNotes": "BR primeiro; LATAM e EU com idioma, currículos e validação técnica.",
+    "sourceConcept": "conjunto pequeno por disciplina/prova, PDF com referências e revisão por fisioterapeuta. A página anuncia 200+ mapas em 12 módulos por R$10.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-056",
+    "title": "Reforma tributária em mapas visuais",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: glossário, linha do tempo e checklist para um público definido. O anúncio menciona transição até 2033; conteúdo envelhece com alterações normativas.",
+    "deliverable": "glossário, linha do tempo e checklist para um público definido. O anúncio menciona transição até 2033; conteúdo envelhece com alterações normativas.",
+    "evidence": "Formato observado: Educação / negócios. glossário, linha do tempo e checklist para um público definido. O anúncio menciona transição até 2033; conteúdo envelhece com alterações normativas.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Mapa Fácil Reforma Tributária",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22MAPAFACILREFORMATRIBUT%C3%81RIA.COM%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc&source=page-transparency-widget",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação / negócios."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Baixa-média"
+    },
+    "formatObserved": "Educação / negócios",
+    "marketNotes": "BR apenas na versão observada; precisa atualização e revisão fiscal recorrentes.",
+    "sourceConcept": "glossário, linha do tempo e checklist para um público definido. O anúncio menciona transição até 2033; conteúdo envelhece com alterações normativas.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-057",
+    "title": "Atividades de Ciências 6º–9º",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: amostra autoral de atividades imprimíveis por série, gabarito e sugestões de aplicação. A referência anuncia 120 atividades.",
+    "deliverable": "amostra autoral de atividades imprimíveis por série, gabarito e sugestões de aplicação. A referência anuncia 120 atividades.",
+    "evidence": "Formato observado: Educação escolar. amostra autoral de atividades imprimíveis por série, gabarito e sugestões de aplicação. A referência anuncia 120 atividades.",
+    "production": "Dificuldade estimada na triagem: Baixa-média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Atividades Prontas",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22ATIVIDADESPRONTAS.ONLINE%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação escolar."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação escolar",
+    "marketNotes": "BR inicial; LATAM/EUA/EU por currículo, unidades, idioma e faixa escolar.",
+    "sourceConcept": "amostra autoral de atividades imprimíveis por série, gabarito e sugestões de aplicação. A referência anuncia 120 atividades.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-058",
+    "title": "Biblioteca de atividades de inglês",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: pacote curado por nível, aulas prontas e jogos orais sem impressão. Referência anuncia 650+ atividades de Early Years a C1 e 150 jogos.",
+    "deliverable": "pacote curado por nível, aulas prontas e jogos orais sem impressão. Referência anuncia 650+ atividades de Early Years a C1 e 150 jogos.",
+    "evidence": "Formato observado: Educação / inglês. pacote curado por nível, aulas prontas e jogos orais sem impressão. Referência anuncia 650+ atividades de Early Years a C1 e 150 jogos.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Teacher's Treasure Kit",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22TEACHERSTREASUREKIT.SHOP%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação / inglês."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação / inglês",
+    "marketNotes": "EUA/EU e ensino global; BR/LATAM com explicações e exemplos apropriados. Revisão por docente fluente.",
+    "sourceConcept": "pacote curado por nível, aulas prontas e jogos orais sem impressão. Referência anuncia 650+ atividades de Early Years a C1 e 150 jogos.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-059",
+    "title": "Cursiva passo a passo",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: cadernos originais de traçado a frases, progressão por nível e versões de impressão econômica. O anúncio de Sala de Saberes descreve cinco cadernos.",
+    "deliverable": "cadernos originais de traçado a frases, progressão por nível e versões de impressão econômica. O anúncio de Sala de Saberes descreve cinco cadernos.",
+    "evidence": "Formato observado: Educação / caligrafia. cadernos originais de traçado a frases, progressão por nível e versões de impressão econômica. O anúncio de Sala de Saberes descreve cinco cadernos.",
+    "production": "Dificuldade estimada na triagem: Baixa-média. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Sala de Saberes",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22SALADESABERES.COM.BR%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação / caligrafia."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Baixa-média",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação / caligrafia",
+    "marketNotes": "BR; LATAM/EUA/EU após revisar alfabetos, ortografia e padrões escolares.",
+    "sourceConcept": "cadernos originais de traçado a frases, progressão por nível e versões de impressão econômica. O anúncio de Sala de Saberes descreve cinco cadernos.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-060",
+    "title": "Recursos para sessões infantojuvenis",
+    "front": "Psicologia e bem-estar",
+    "category": "Psicologia e bem-estar",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: materiais imprimíveis por objetivo, perguntas e orientação de uso para profissionais; agrupa anúncios de quebra-gelo, estimulação cognitiva e fichas para TOD.",
+    "deliverable": "materiais imprimíveis por objetivo, perguntas e orientação de uso para profissionais; agrupa anúncios de quebra-gelo, estimulação cognitiva e fichas para TOD.",
+    "evidence": "Formato observado: Psicologia / B2B. materiais imprimíveis por objetivo, perguntas e orientação de uso para profissionais; agrupa anúncios de quebra-gelo, estimulação cognitiva e fichas para TOD.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · CriAtivar Recursos Terapêuticos",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=100918434915486",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Psicologia / B2B."
+      },
+      {
+        "title": "Biblioteca · Terapia Evolutiva",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1116979728155423",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Psicologia / B2B."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Psicologia / B2B",
+    "marketNotes": "BR e países hispânicos após revisão clínica e profissional local; não vender como tratamento.",
+    "sourceConcept": "materiais imprimíveis por objetivo, perguntas e orientação de uso para profissionais; agrupa anúncios de quebra-gelo, estimulação cognitiva e fichas para TOD.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-061",
+    "title": "Atividades de arteterapia para profissionais",
+    "front": "Psicologia e bem-estar",
+    "category": "Psicologia e bem-estar",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: exercícios originais com objetivos, materiais e limites de aplicação; referência anuncia 125+ técnicas e guia de interpretação.",
+    "deliverable": "exercícios originais com objetivos, materiais e limites de aplicação; referência anuncia 125+ técnicas e guia de interpretação.",
+    "evidence": "Formato observado: Psicologia / B2B. exercícios originais com objetivos, materiais e limites de aplicação; referência anuncia 125+ técnicas e guia de interpretação.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Semillitas Digitales",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=853329337857961",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Psicologia / B2B."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "formatObserved": "Psicologia / B2B",
+    "marketNotes": "BR/LATAM/EUA/EU somente com revisão profissional, escopo claro e adaptação local.",
+    "sourceConcept": "exercícios originais com objetivos, materiais e limites de aplicação; referência anuncia 125+ técnicas e guia de interpretação.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-062",
+    "title": "Planner sem caos para TDAH",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: planner não datado em PDF, rotina flexível e ferramentas de organização; página anuncia 170+ páginas por R$37. Evitar alegar tratamento ou resultado clínico.",
+    "deliverable": "planner não datado em PDF, rotina flexível e ferramentas de organização; página anuncia 170+ páginas por R$37. Evitar alegar tratamento ou resultado clínico.",
+    "evidence": "Formato observado: Organização / acessibilidade. planner não datado em PDF, rotina flexível e ferramentas de organização; página anuncia 170+ páginas por R$37. Evitar alegar tratamento ou resultado clínico.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Página de vendas · Planner Sem Caos",
+        "url": "https://semcaosplanner.online",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Organização / acessibilidade."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Organização / acessibilidade",
+    "marketNotes": "BR primeiro; LATAM/EUA/EU com idioma, medidas, moeda, privacidade e revisão de alegações.",
+    "sourceConcept": "planner não datado em PDF, rotina flexível e ferramentas de organização; página anuncia 170+ páginas por R$37. Evitar alegar tratamento ou resultado clínico.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-063",
+    "title": "Guia de treinos ilustrados",
+    "front": "Psicologia e bem-estar",
+    "category": "Psicologia e bem-estar",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: rotina por objetivo e nível, demonstrações próprias e plano semanal. Anúncios em vários idiomas mencionam centenas de exercícios e programas prontos.",
+    "deliverable": "rotina por objetivo e nível, demonstrações próprias e plano semanal. Anúncios em vários idiomas mencionam centenas de exercícios e programas prontos.",
+    "evidence": "Formato observado: Bem-estar / exercício. rotina por objetivo e nível, demonstrações próprias e plano semanal. Anúncios em vários idiomas mencionam centenas de exercícios e programas prontos.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Guia Flexível",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=105727201291213",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Bem-estar / exercício."
+      },
+      {
+        "title": "Biblioteca · fitness em outros idiomas",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=105143382186188",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Bem-estar / exercício."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média-alta",
+      "scale": "Alta"
+    },
+    "formatObserved": "Bem-estar / exercício",
+    "marketNotes": "BR/LATAM/EUA/EU após tradução e revisão por profissional; não prometer emagrecimento/ganho específico.",
+    "sourceConcept": "rotina por objetivo e nível, demonstrações próprias e plano semanal. Anúncios em vários idiomas mencionam centenas de exercícios e programas prontos.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-064",
+    "title": "Guias de elétrica residencial e controles",
+    "front": "Educação e mapas",
+    "category": "Educação e mapas",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: separar iniciante de eletricista, diagramas legíveis, checklists e escopo de segurança. As referências anunciam manual residencial e guia de controles de 300 páginas.",
+    "deliverable": "separar iniciante de eletricista, diagramas legíveis, checklists e escopo de segurança. As referências anunciam manual residencial e guia de controles de 300 páginas.",
+    "evidence": "Formato observado: Educação técnica / elétrica. separar iniciante de eletricista, diagramas legíveis, checklists e escopo de segurança. As referências anunciam manual residencial e guia de controles de 300 páginas.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Packs & Moldes Pro",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1227856100409706",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação técnica / elétrica."
+      },
+      {
+        "title": "Biblioteca · Energia Rentable",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22ENERGIARENTABLE.COM%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Educação técnica / elétrica."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Educação técnica / elétrica",
+    "marketNotes": "BR ou mercado hispânico específico; normas elétricas locais e revisão profissional são indispensáveis.",
+    "sourceConcept": "separar iniciante de eletricista, diagramas legíveis, checklists e escopo de segurança. As referências anunciam manual residencial e guia de controles de 300 páginas.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-065",
+    "title": "Projetos para serralheria com medidas",
+    "front": "Papelaria e personalizados",
+    "category": "Papelaria e personalizados",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: coleção pequena de desenhos próprios, medidas, cortes e exemplos montados; anúncio promete 4.000 projetos por US$1,99.",
+    "deliverable": "coleção pequena de desenhos próprios, medidas, cortes e exemplos montados; anúncio promete 4.000 projetos por US$1,99.",
+    "evidence": "Formato observado: Ofício / serralheria. coleção pequena de desenhos próprios, medidas, cortes e exemplos montados; anúncio promete 4.000 projetos por US$1,99.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · Pack Tesoro Herrero",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=%22PACKTESOROHERRERO.LOVABLE.APP%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Ofício / serralheria."
+      }
+    ],
+    "markets": {
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média-alta"
+    },
+    "formatObserved": "Ofício / serralheria",
+    "marketNotes": "LATAM/EUA/EU por idioma, unidades, materiais e normas de segurança.",
+    "sourceConcept": "coleção pequena de desenhos próprios, medidas, cortes e exemplos montados; anúncio promete 4.000 projetos por US$1,99.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-066",
+    "title": "Projetos de madeira reaproveitada",
+    "front": "Ofícios técnicos",
+    "category": "Ofícios técnicos",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: projetos iniciais com medidas, lista de corte e segurança. Referência em espanhol anuncia 300+ projetos.",
+    "deliverable": "projetos iniciais com medidas, lista de corte e segurança. Referência em espanhol anuncia 300+ projetos.",
+    "evidence": "Formato observado: Marcenaria / hobby. projetos iniciais com medidas, lista de corte e segurança. Referência em espanhol anuncia 300+ projetos.",
+    "production": "Dificuldade estimada na triagem: Média-alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · projetos de madeira",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1191268424076265",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Marcenaria / hobby."
+      }
+    ],
+    "markets": {
+      "BR": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Média-alta",
+      "potential": "Média",
+      "scale": "Alta"
+    },
+    "formatObserved": "Marcenaria / hobby",
+    "marketNotes": "LATAM/EUA/EU com unidades e materiais locais; BR com revisão técnica.",
+    "sourceConcept": "projetos iniciais com medidas, lista de corte e segurança. Referência em espanhol anuncia 300+ projetos.",
+    "stage": "mining"
+  },
+  {
+    "id": "LEJL-067",
+    "title": "Alvenaria residencial visual",
+    "front": "Ofícios técnicos",
+    "category": "Ofícios técnicos",
+    "audience": "Público e problema a delimitar na modelagem. Hipótese da triagem: guia original de pequenos reparos com imagens, limites do faça-você-mesmo e quando contratar profissional. A oferta descreve 80 páginas e bônus.",
+    "deliverable": "guia original de pequenos reparos com imagens, limites do faça-você-mesmo e quando contratar profissional. A oferta descreve 80 páginas e bônus.",
+    "evidence": "Formato observado: Construção / hobby. guia original de pequenos reparos com imagens, limites do faça-você-mesmo e quando contratar profissional. A oferta descreve 80 páginas e bônus.",
+    "production": "Dificuldade estimada na triagem: Alta. Validar produção e revisão na modelagem.",
+    "bumps": "(1) Complemento prático adequado ao produto; (2) ferramenta de aplicação ou organização a definir na modelagem.",
+    "origin": "Swipe · triagem 15/10/2026",
+    "refs": [
+      {
+        "title": "Biblioteca · alvenaria residencial",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=1191268424076265",
+        "note": "Referência registrada na triagem do Swipe; formato observado: Construção / hobby."
+      }
+    ],
+    "markets": {
+      "LATAM": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "USA": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      },
+      "EU": {
+        "fit": "Potencial indicado na triagem",
+        "note": "Confira as adaptações indicadas abaixo."
+      }
+    },
+    "rating": {
+      "difficulty": "Alta",
+      "potential": "Média",
+      "scale": "Média"
+    },
+    "formatObserved": "Construção / hobby",
+    "marketNotes": "LATAM/EUA/EU com normas, medidas e técnicas locais; revisão técnica obrigatória.",
+    "sourceConcept": "guia original de pequenos reparos com imagens, limites do faça-você-mesmo e quando contratar profissional. A oferta descreve 80 páginas e bônus.",
+    "stage": "mining"
+  }
+]

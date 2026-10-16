@@ -1,0 +1,371 @@
+{
+  "updated": "2026-10-15",
+  "targetStart": "2026-10-19",
+  "targetEnd": "2026-10-23",
+  "principles": [
+    "Os produtos 4, 16 e 17 estão aprovados e em Produção.",
+    "Modelagem próxima à referência: registrar formato, promessa, composição e ângulos antes de adaptar. Criar conteúdo e materiais próprios.",
+    "Definir mercado e oferta antes de finalizar página, entregável e criativos.",
+    "Oferta inicial: principal + dois order bumps, sem upsell.",
+    "Venda inicial por página de vendas e checkout. WhatsApp é uma opção de suporte/entrega; venda por conversa fica para decisão posterior.",
+    "Entregáveis e credenciais ficam fora do repositório público."
+  ],
+  "stages": [
+    {
+      "id": "mining",
+      "label": "Mineração",
+      "next": "Selecionar e aprovar a oportunidade."
+    },
+    {
+      "id": "production",
+      "label": "Produção",
+      "next": "Concluir modelagem, oferta, mercado e as frentes de execução."
+    },
+    {
+      "id": "testing",
+      "label": "Em teste",
+      "next": "Entram aqui após a primeira campanha começar com medição funcionando."
+    },
+    {
+      "id": "scaling",
+      "label": "Escala",
+      "next": "Entram aqui após decisão baseada nos resultados do teste."
+    },
+    {
+      "id": "closed",
+      "label": "Encerrado",
+      "next": "Registrar aprendizados e a decisão de encerrar ou arquivar."
+    }
+  ],
+  "team": [
+    {
+      "name": "Jonatan",
+      "role": "Oferta, mercado, orçamento e decisão de lançamento/teste."
+    },
+    {
+      "name": "Jéssica",
+      "role": "Coordenação da operação, acompanhamento das tarefas, modelagem e conteúdo."
+    },
+    {
+      "name": "Eduardo",
+      "role": "Frente de entregáveis e revisão dos materiais."
+    },
+    {
+      "name": "Felipe",
+      "role": "Frente técnica: página, plataforma, checkout e rastreamento."
+    }
+  ],
+  "teamNote": "Distribuição proposta para confirmar disponibilidade e capacidade. Criativos e tráfego precisam de dono; podem ficar com Jonatan/Jéssica ou ser redistribuídos.",
+  "schedule": [
+    {
+      "date": "16–18/10",
+      "label": "Preparação",
+      "work": "Organizar referências, acessos, disponibilidade e plataforma candidata. Adiantar modelagem se houver disponibilidade.",
+      "result": "Material e decisões preparados para segunda."
+    },
+    {
+      "date": "19/10 · segunda",
+      "label": "Modelagem, oferta e mercado",
+      "work": "Fechar o recorte dos três produtos, a composição principal + dois bumps, o mercado inicial e a divisão das frentes.",
+      "result": "Ficha de oferta de cada produto e responsáveis definidos."
+    },
+    {
+      "date": "20–21/10 · terça e quarta",
+      "label": "Produção em paralelo",
+      "work": "Entregáveis e revisão; página/checkout/entrega; contas, rastreamento e criativos.",
+      "result": "Fluxos montados e materiais em revisão."
+    },
+    {
+      "date": "22/10 · quinta",
+      "label": "Compra completa e ajustes",
+      "work": "Conferir mobile, checkout, bumps, entrega e evento de compra; fechar orçamento e configuração de teste.",
+      "result": "Produtos que passarem na conferência ficam prontos para anunciar."
+    },
+    {
+      "date": "23/10 · sexta",
+      "label": "Primeira leva",
+      "work": "Iniciar os testes dos produtos prontos, conforme verba definida. Registrar gasto, compras, receita e observações.",
+      "result": "Primeira leva em tráfego; os demais seguem em Produção se faltar alguma entrega."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "model",
+      "phase": "Definição",
+      "task": "Modelagem da referência",
+      "output": "Oferta original registrada: público, promessa, formato, composição, preço observado e ângulos. Definir o que será mantido e adaptado.",
+      "stream": "Modelagem e coordenação",
+      "depends": []
+    },
+    {
+      "id": "offer",
+      "phase": "Definição",
+      "task": "Oferta principal + 2 bumps",
+      "output": "Definir promessa, entregável, bônus, preço pretendido, dois bumps e suas diferenças. Sem upsell na validação.",
+      "stream": "Modelagem e coordenação",
+      "depends": [
+        "model"
+      ]
+    },
+    {
+      "id": "market",
+      "phase": "Definição",
+      "task": "Mercado inicial",
+      "output": "Escolher país, idioma, moeda, público e plataforma compatível. Um mercado por primeira versão é a proposta.",
+      "stream": "Modelagem e coordenação",
+      "depends": [
+        "model"
+      ]
+    },
+    {
+      "id": "owners",
+      "phase": "Definição",
+      "task": "Responsáveis e acessos",
+      "output": "Confirmar um dono para cada frente, disponibilidade e acesso a ferramentas e contas.",
+      "stream": "Coordenação",
+      "depends": []
+    },
+    {
+      "id": "delivery",
+      "phase": "Execução paralela",
+      "task": "Entregável principal + bumps",
+      "output": "Produzir arquivos próprios, revisar, conferir impressão/áudio quando aplicável e preparar amostra para a página.",
+      "stream": "Entregáveis",
+      "depends": [
+        "offer",
+        "market"
+      ]
+    },
+    {
+      "id": "salespage",
+      "phase": "Execução paralela",
+      "task": "Página de vendas",
+      "output": "Copy e página mobile com oferta, demonstração, dúvidas e CTA para o checkout.",
+      "stream": "Página e checkout",
+      "depends": [
+        "offer",
+        "market"
+      ]
+    },
+    {
+      "id": "checkout",
+      "phase": "Execução paralela",
+      "task": "Produto na plataforma e checkout",
+      "output": "Cadastrar produto e preços, ativar os dois bumps, configurar pagamento e linkar a página.",
+      "stream": "Página e checkout",
+      "depends": [
+        "offer",
+        "market"
+      ]
+    },
+    {
+      "id": "automation",
+      "phase": "Execução paralela",
+      "task": "Automação de entrega",
+      "output": "Configurar acesso após pagamento, mensagem/e-mail e instruções de suporte. Decidir se WhatsApp participa da entrega ou suporte.",
+      "stream": "Página e checkout",
+      "depends": [
+        "checkout",
+        "delivery"
+      ]
+    },
+    {
+      "id": "adaccount",
+      "phase": "Execução paralela",
+      "task": "Estrutura para anúncios",
+      "output": "Página Facebook/Instagram, gerenciador, conta de anúncios, acessos e forma de pagamento conferidos.",
+      "stream": "Anúncios e criativos",
+      "depends": [
+        "owners"
+      ]
+    },
+    {
+      "id": "tracking",
+      "phase": "Execução paralela",
+      "task": "Pixel e rastreamento",
+      "output": "Configurar eventos de página, checkout e compra, UTMs e conferência do valor da compra. Registrar IDs e credenciais somente fora do repositório público.",
+      "stream": "Anúncios e criativos",
+      "depends": [
+        "salespage",
+        "checkout"
+      ]
+    },
+    {
+      "id": "creative",
+      "phase": "Execução paralela",
+      "task": "Criativos e textos de anúncio",
+      "output": "Adaptar os ângulos definidos para criativos próprios. Proposta inicial: 3 ângulos com 2 variações cada, a ajustar à verba.",
+      "stream": "Anúncios e criativos",
+      "depends": [
+        "offer",
+        "market"
+      ]
+    },
+    {
+      "id": "budget",
+      "phase": "Liberação",
+      "task": "Plano financeiro do teste",
+      "output": "Definir orçamento diário, teto total, preço/margem após taxas, CAC de referência e critérios de ajustar, escalar ou encerrar. Valores ainda pendentes.",
+      "stream": "Jonatan / tráfego",
+      "depends": [
+        "offer",
+        "checkout"
+      ]
+    },
+    {
+      "id": "qa",
+      "phase": "Liberação",
+      "task": "Conferência de ponta a ponta",
+      "output": "Compra de teste: página mobile → checkout → bumps → pagamento → entrega → rastreamento. Corrigir falhas antes de anunciar.",
+      "stream": "Frentes reunidas",
+      "depends": [
+        "delivery",
+        "salespage",
+        "checkout",
+        "automation",
+        "adaccount",
+        "tracking",
+        "creative"
+      ]
+    },
+    {
+      "id": "launch",
+      "phase": "Liberação",
+      "task": "Iniciar e acompanhar teste",
+      "output": "Publicar campanha somente com orçamento definido e conferência concluída; registrar resultados e primeira data de revisão.",
+      "stream": "Tráfego",
+      "depends": [
+        "qa",
+        "budget"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "LEJL-004",
+      "name": "Pixel art",
+      "market": "A definir; BR é a proposta inicial, ainda sem decisão.",
+      "model": "Modelar de perto o pack de atividades de pixel art da referência; definir quantidade, níveis e orientação de uso.",
+      "decision": "Escolher público inicial (famílias ou professores), faixa etária, escopo do pack e preço.",
+      "review": "Testar impressão, instruções, dificuldade e amostra com uso real.",
+      "offer": "Principal + dois bumps ainda a definir. As hipóteses do banco são simetria e calendário de atividades.",
+      "status": "A iniciar",
+      "taskStates": {
+        "model": "pending",
+        "offer": "pending",
+        "market": "pending",
+        "owners": "pending",
+        "delivery": "pending",
+        "salespage": "pending",
+        "checkout": "pending",
+        "automation": "pending",
+        "adaccount": "pending",
+        "tracking": "pending",
+        "creative": "pending",
+        "budget": "pending",
+        "qa": "pending",
+        "launch": "pending"
+      },
+      "taskOwners": {
+        "model": "A definir",
+        "offer": "A definir",
+        "market": "A definir",
+        "owners": "A definir",
+        "delivery": "A definir",
+        "salespage": "A definir",
+        "checkout": "A definir",
+        "automation": "A definir",
+        "adaccount": "A definir",
+        "tracking": "A definir",
+        "creative": "A definir",
+        "budget": "A definir",
+        "qa": "A definir",
+        "launch": "A definir"
+      }
+    },
+    {
+      "id": "LEJL-016",
+      "name": "Italiano visual",
+      "market": "A definir; avaliar BR na primeira versão e público que quer aprender italiano.",
+      "model": "Comparar a oferta original de italiano visual com o recorte de viagem sugerido no banco. Escolher se mantém escopo geral ou recorte de viagem.",
+      "decision": "Definir público, extensão do conteúdo, presença de áudio, idioma-base e quem revisará o italiano.",
+      "review": "Revisão de italiano, pronúncia e áudios por pessoa fluente.",
+      "offer": "Principal + dois bumps ainda a definir. Hipóteses do banco: diálogos práticos e baralho de revisão.",
+      "status": "A iniciar",
+      "taskStates": {
+        "model": "pending",
+        "offer": "pending",
+        "market": "pending",
+        "owners": "pending",
+        "delivery": "pending",
+        "salespage": "pending",
+        "checkout": "pending",
+        "automation": "pending",
+        "adaccount": "pending",
+        "tracking": "pending",
+        "creative": "pending",
+        "budget": "pending",
+        "qa": "pending",
+        "launch": "pending"
+      },
+      "taskOwners": {
+        "model": "A definir",
+        "offer": "A definir",
+        "market": "A definir",
+        "owners": "A definir",
+        "delivery": "A definir",
+        "salespage": "A definir",
+        "checkout": "A definir",
+        "automation": "A definir",
+        "adaccount": "A definir",
+        "tracking": "A definir",
+        "creative": "A definir",
+        "budget": "A definir",
+        "qa": "A definir",
+        "launch": "A definir"
+      }
+    },
+    {
+      "id": "LEJL-017",
+      "name": "Devocional para casais",
+      "market": "A definir; BR é a proposta inicial, com público cristão e abordagem definidos.",
+      "model": "Modelar o formato de jornada devocional da referência; definir número de dias, leituras, perguntas e diário.",
+      "decision": "Escolher abordagem de fé, público do casal, promessa, duração e revisão editorial/teológica.",
+      "review": "Revisar textos, referências bíblicas, coerência teológica e clareza da promessa, sem garantir resultado no casamento.",
+      "offer": "Principal + dois bumps ainda a definir. Hipóteses do banco: cards de conversa e planner de momentos a dois.",
+      "status": "A iniciar",
+      "taskStates": {
+        "model": "pending",
+        "offer": "pending",
+        "market": "pending",
+        "owners": "pending",
+        "delivery": "pending",
+        "salespage": "pending",
+        "checkout": "pending",
+        "automation": "pending",
+        "adaccount": "pending",
+        "tracking": "pending",
+        "creative": "pending",
+        "budget": "pending",
+        "qa": "pending",
+        "launch": "pending"
+      },
+      "taskOwners": {
+        "model": "A definir",
+        "offer": "A definir",
+        "market": "A definir",
+        "owners": "A definir",
+        "delivery": "A definir",
+        "salespage": "A definir",
+        "checkout": "A definir",
+        "automation": "A definir",
+        "adaccount": "A definir",
+        "tracking": "A definir",
+        "creative": "A definir",
+        "budget": "A definir",
+        "qa": "A definir",
+        "launch": "A definir"
+      }
+    }
+  ]
+}
